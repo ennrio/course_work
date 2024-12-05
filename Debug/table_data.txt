@@ -1,0 +1,9 @@
+1
+one
+3
+Erofei Denisov Pavlovich 19 300
+Egor Presnyakov Stepanovich 19 1500
+Maks Kostin dlsjsfld 21 140
+-1 1 0
+0 -1 0
+0 0 -1

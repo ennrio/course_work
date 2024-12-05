@@ -1,0 +1,14 @@
+2
+one
+3
+Egor Presnyakov Stepanovich 19 1500
+Maksim Kostin dlsffsl 21 1300
+Bogdan Orlov eirwer 19 1700
+-1 0 0
+0 -1 0
+0 0 -1
+
+two
+1
+Иванов Иван Иванович 23 343
+-1
